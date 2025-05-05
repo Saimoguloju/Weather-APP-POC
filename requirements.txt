@@ -6,4 +6,3 @@ Pillow
 tabulate
 plotly
 matplotlib
-sqlite3
