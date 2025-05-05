@@ -1,0 +1,9 @@
+python-dotenv
+pandas
+requests
+streamlit
+Pillow
+tabulate
+plotly
+matplotlib
+sqlite3
